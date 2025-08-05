@@ -112,3 +112,5 @@ src/
 Made with 💻 by <a href="https://github.com/ChiragVasava">Chirag Vasava</a>
 
 ### 📷 Screenshot
+<img width="1920" height="912" alt="Screenshot 1" src="https://github.com/user-attachments/assets/d36d9cd7-acd6-4ee9-9dc0-7b3ec89bd2cc" />
+
